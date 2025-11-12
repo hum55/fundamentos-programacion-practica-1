@@ -33,12 +33,12 @@ function operacionesBasicas(a, b) {
   // TODO: Calcula suma, resta, multiplicaciÃ³n y divisiÃ³n de a y b
   // prueba
   
-  const suma = a + b;
-  const resta = a - b;
-  const multiplicacion = a * b;
-  const division = a / b;
+  const suma = a + b; 
+  const resta = a - b; 
+  const multiplicacion = a * b; 
+  const division = a / b; 
   
-  return { suma, resta, multiplicacion, division };
+  return { suma, resta, multiplicacion, division }; 
 }
 
 /**

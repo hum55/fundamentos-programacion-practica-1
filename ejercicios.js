@@ -248,7 +248,7 @@ function encontrarMaximo(numeros) {
             maximo = pares[i]; 
         } 
     } 
-    return maximo;
+    return maximo; 
 
 }
 
@@ -261,13 +261,13 @@ function encontrarMaximo(numeros) {
  */
 function filtrarMayores(numeros, limite) {
   // TODO: Crea un nuevo array con solo los números mayores al límite
-  const mayores = [];
-    for (let i = 0; i < numeros.length; i++) {
-        if (numeros[i] > limite) {
-            mayores.push(numeros[i]);
-        }
-    }
-    return mayores;
+  const mayores = []; 
+    for (let i = 0; i < numeros.length; i++) { 
+        if (numeros[i] > limite) { 
+            mayores.push(numeros[i]); 
+        } 
+    } 
+    return mayores; 
 
 }
 

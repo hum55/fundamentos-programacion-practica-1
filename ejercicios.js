@@ -211,8 +211,8 @@ function numerosPares(n) {
  */
 function sumaArray(numeros) {
   // TODO: Suma todos los elementos del array
-    const suma = numeros.reduce((acumulador, numero) => acumulador + numero, 0);
-    return suma;
+    const suma = numeros.reduce((acumulador, numero) => acumulador + numero, 0); 
+    return suma; 
 }
 
 

@@ -344,8 +344,8 @@ function sumaMatriz(matriz) {
  */
 function obtenerFila(matriz, indiceFila) {
   // TODO: Retorna la fila indicada
-   const fila = matriz[indiceFila];
-    return fila;
+   const fila = matriz[indiceFila]; 
+    return fila; 
 
 }
 

@@ -90,12 +90,12 @@ function parOImpar(numero) {
  * @param {number} nota - Nota del 0 al 100
  * @returns {string} - "Aprobado" si nota >= 60, "Reprobado" si no
  */
-function evaluarNota(nota) {
-  if (nota >= 60) {
-    return "Aprobado";
-  } else {
-    return "Reprobado";
-  }
+function evaluarNota(nota) { 
+  if (nota >= 60) { 
+    return "Aprobado"; 
+  } else { 
+    return "Reprobado"; 
+  } 
 }
 
 /**

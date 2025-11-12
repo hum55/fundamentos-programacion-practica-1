@@ -241,13 +241,13 @@ function encontrarMaximo(numeros) {
   // TODO: Encuentra y retorna el número más grande
   // Pista: Puedes usar Math.max(...numeros) o hacerlo con un bucle
   
- const pares = numeros;
-    let maximo = pares[0];
-    for (let i = 1; i < pares.length; i++) {
-        if (pares[i] > maximo) {
-            maximo = pares[i];
-        }
-    }
+ const pares = numeros; 
+    let maximo = pares[0]; 
+    for (let i = 1; i < pares.length; i++) { 
+        if (pares[i] > maximo) { 
+            maximo = pares[i]; 
+        } 
+    } 
     return maximo;
 
 }

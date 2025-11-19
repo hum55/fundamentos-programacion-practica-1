@@ -3,7 +3,7 @@
 // Fecha: _________________
 
 // ============================================
-// SECCIóN 1: VARIABLES Y TIPOS DE DATOS (10 puntos)
+// SECCION 1: VARIABLES Y TIPOS DE DATOS (10 puntos)
 // ============================================
 
 /**

@@ -388,7 +388,7 @@ function transponer(matriz) {
 }
 
 // ============================================
-// NO MODIFIQUES ESTA LÃNEA - NECESARIA PARA LOS TESTS
+// NO MODIFIQUES ESTA LÍNEA - NECESARIA PARA LOS TESTS
 // ============================================
 module.exports = {
   miInformacion,
